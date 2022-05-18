@@ -1,0 +1,31 @@
+[
+    {
+    "id": 1,
+    "tittle": "WRAITH",
+    "imgSrc": "/json/ds.webp",
+    "informationCAR": "<span>Length 5399 mm</span><span>Width 1948 mm</span><span>Engine type / number of values V12/48</span><span> Urban cycle 20,5 l / 100</span><span>cycle 13,6 л / 100 km</span><span>CO2 emissions 327 g/km</span>",
+    "srcToAbout": "/html/wraith.html"
+    },
+    {
+    "id": 2,
+    "tittle": "GHOST",
+    "imgSrc": "/json/imgonline-com-ua-Resize-oa6L6aQQVardrU.jpg",
+    "informationCAR": "<span>Length 5399 mm</span><span>Width 1948 mm</span><span>Engine type / number of values V12/48</span><span> Urban cycle 20,5 l / 100</span><span>cycle 13,6 л / 100 km</span><span>CO2 emissions 327 g/km</span>",
+    "srcToAbout": "/html/gost.html"
+    },
+    {
+    "id": 3,
+    "tittle": "CULLINAN",
+    "imgSrc": "/json/4.webp",
+    "informationCAR": "<span>Length 5399 mm</span><span>Width 1948 mm</span><span>Engine type / number of values V12/48</span><span> Urban cycle 20,5 l / 100</span><span>cycle 13,6 л / 100 km</span><span>CO2 emissions 327 g/km</span>",
+    "srcToAbout": "/html/cullinan.html"
+    },
+    {
+    "id": 4,
+    "tittle": "PHANTOM",
+    "imgSrc": "/json//imgonline-com-ua-Resize-pQoA9CX6V3VfD.jpg",
+    "informationCAR": "<span>Length 5399 mm</span><span>Width 1948 mm</span><span>Engine type / number of values V12/48</span><span> Urban cycle 20,5 l / 100</span><span>cycle 13,6 л / 100 km</span><span>CO2 emissions 327 g/km</span>",
+    "srcToAbout": "/html/phantom.html"
+    }
+    ]
+    
